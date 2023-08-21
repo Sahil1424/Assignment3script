@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #de6060;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: rgb(226, 96, 96);
+    box-shadow: 0 0 4px rgba(162, 154, 154, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 25px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  select, input[type="checkbox"], input[type="radio"] {
+    margin-right: 15px;
+  }
+  
+  button {
+    display: block;
+    margin: 15px auto;
+    padding: 15px 25px;
+    background-color: #92bce9;
+    color: rgb(153, 84, 84);
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #e7eaed;
+  }
+  
